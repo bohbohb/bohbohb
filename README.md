@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bohbohb
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning pandas, bokeh, sql
+- 👀 I’m interested in Data Engineering and Software Engineering
+- 🌱 I’m currently learning Spark, GraphFrames, NoSQL DBs and functional programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
